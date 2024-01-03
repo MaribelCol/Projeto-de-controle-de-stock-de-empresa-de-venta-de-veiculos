@@ -1,4 +1,5 @@
-# Projeto  Final Grupo 6
+# Projeto de controle de stock de empresa de venta de veiculos
+Projeto  Final Grupo 6
 Projeto final do curso da Toti (Turma 17) - Anyela, Maribel e Osca
 
 
